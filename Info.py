@@ -1,9 +1,9 @@
 #Twilio
 
-account_sid = ''
-auth_token = ''
-twilionumber = ''
-twiliosmsnumber = ''
+account_sid = 'AC6b8b324643c7a0b934a910d7c4583032'
+auth_token = '07fe87712be882803734d9e550c48579'
+twilionumber = '+2347066789667'
+twiliosmsnumber = '+2347066789667'
 
 #Telegram Bot Token
 API_TOKEN = "" 
